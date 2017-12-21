@@ -24,7 +24,7 @@ class Config(object):
     n_samples = 1024
     n_features = 100
     n_classes = 5
-    #You may adjust the max_epochs to ensure Convergence
+    #You may adjust the max_epochs to ensure Convergence(收敛)
     max_epochs = 50
     #You may adjust this learning rate to ensure convergence.
     lr = 1e-4
